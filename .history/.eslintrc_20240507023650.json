@@ -1,11 +1,12 @@
 {
-  "extends": ["plugin:react/recommended", "next/core-web-vitals"],
+  "extends": "next/core-web-vitals",
+  "ignorePatterns": [".history/**"],
   "rules": {
     "react/react-in-jsx-scope": "off"
-  },
+  }
   "settings": {
     "react": {
       "version": "detect"
     }
-  }
+  }  
 }

@@ -4,10 +4,10 @@
   "private": true,
   "scripts": {
     "lint": "eslint . --fix",
+    "dev": "next dev", // Replace "next dev" if your start command is different
     "build": "next build",
-    "dev": "next dev",
     "start": "next start"
-  },
+  }, // <-- This closing brace needed to be shifted
   "dependencies": {
     "next": "14.2.3",
     "react": "^18",

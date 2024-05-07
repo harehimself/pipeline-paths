@@ -4,9 +4,10 @@
   "private": true,
   "scripts": {
     "lint": "eslint . --fix",
-    "build": "next build",
-    "dev": "next dev",
+    "dev": "next dev",  // Replace "next dev" if your start command is different
+    "build": "build",
     "start": "next start"
+}
   },
   "dependencies": {
     "next": "14.2.3",

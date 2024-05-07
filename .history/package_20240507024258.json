@@ -3,10 +3,10 @@
   "version": "0.1.0",
   "private": true,
   "scripts": {
-    "lint": "eslint . --fix",
-    "build": "next build",
     "dev": "next dev",
-    "start": "next start"
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
   },
   "dependencies": {
     "next": "14.2.3",
@@ -18,7 +18,7 @@
     "@types/node": "^20",
     "@types/react": "^18",
     "@types/react-dom": "^18",
-    "eslint": "^8.55.0",
+    "eslint": "^8.57.0",
     "eslint-config-next": "14.2.3",
     "eslint-plugin-react": "^7.34.1",
     "globals": "^15.1.0",
@@ -26,5 +26,8 @@
     "tailwindcss": "^3.4.1",
     "typescript": "^5",
     "typescript-eslint": "^7.8.0"
+  },
+  "scripts": {
+    "lint": "eslint . --fix"
   }
 }

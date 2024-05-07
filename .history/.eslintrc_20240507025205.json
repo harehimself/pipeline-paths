@@ -1,0 +1,30 @@
+{
+  "extends": [
+    "plugin:react/recommended"
+    "next/core-web-vitals"
+  ],
+},
+"rules": {
+  "react/react-in-jsx-scope": "off"
+},
+
+
+  "settings": {
+    "react": {
+      "version": "detect"
+    }
+  },
+  "rules": {
+    "react/react-in-jsx-scope": "off"
+  },
+  "ignorePatterns": [".history/**"]
+}
+
+{
+  "extends": [
+    // ... other extensions
+    "plugin:react/recommended" 
+  ],
+   // Turn off the rule
+  }
+}
