@@ -1,36 +1,45 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+<p align="center">
+   <img src="https://github.com/harehimself/hare_pitchboost/blob/main/Hare_PitchBoost.png" alt="Hare PitchBoost">
+</p>
 
-## Getting Started
+<p align="center">
+   PitchBoost is a comprehensive starter kit for building dynamic and effective sales presentation apps. This template provides a solid foundation and best practices to help developers create engaging, interactive, and highly customizable sales presentation tools.
+</p>
+<br>
 
-First, run the development server:
+<p align="center">
+  <a href="https://github.com/harehimself/hare_pitchboost/graphs/contributors">
+    <img src="https://img.shields.io/github/contributors/harehimself/hare_pitchboost" alt="Contributors"></a>
+  <a href="https://github.com/harehimself/hare_pitchboost/network/members">
+    <img src="https://img.shields.io/github/forks/harehimself/hare_pitchboost" alt="Forks"></a>
+  <a href="https://github.com/harehimself/hare_pitchboost/stargazers">
+    <img src="https://img.shields.io/github/stars/harehimself/hare_pitchboost" alt="Stars"></a>
+  <a href="https://github.com/harehimself/hare_pitchboost/issues">
+    <img src="https://img.shields.io/github/issues/harehimself/hare_pitchboost" alt="Issues"></a>
+  <a href="https://github.com/harehimself/hare_pitchboost/blob/main/LICENSE">
+    <img src="https://img.shields.io/github/license/harehimself/hare_pitchboost" alt="MIT License"></a>
+</p>
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+<br><br>
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## Table of Contents
+- [Table of Contents](#table-of-contents)
+- [Features](#features)
+- [License](#license)
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+<br>
 
-## Learn More
+## Features
+- Clean, well-structured, and commented presentation.<br>
+- Modular architecture for easy customization and extension.<br>
+- Sample templates and themes to kickstart presentation design.<br>
+- Placeholders for client personalization throughout.<br>
+- Interactive elements to engage audiences (both in-person and remotely).<br>
+- Cross-platform design (PowerPoint, Google Slides).<br>
 
-To learn more about Next.js, take a look at the following resources:
+<br>
+<br>
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+## License
+   PitchBoost is released under the MIT License.
