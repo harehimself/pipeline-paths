@@ -1,23 +1,23 @@
 <p align="center">
-   <img src="https://github.com/harehimself/hare_pitchboost/blob/main/Hare_PitchBoost.png" alt="Hare PitchBoost">
+   <img src="https://raw.githubusercontent.com/harehimself/paths/master/Hare_Paths.png" alt="Paths App">
 </p>
 
 <p align="center">
-   PitchBoost is a comprehensive starter kit for building dynamic and effective sales presentation apps. This template provides a solid foundation and best practices to help developers create engaging, interactive, and highly customizable sales presentation tools.
+   Paths is an enterprise sales search app that empowers salespeople to identify entry points and revenue opportunities. Whether searching for contacts or companies, Paths presents various strategies to build new relationships and new sources of pipeline.
 </p>
 <br>
 
 <p align="center">
-  <a href="https://github.com/harehimself/hare_pitchboost/graphs/contributors">
-    <img src="https://img.shields.io/github/contributors/harehimself/hare_pitchboost" alt="Contributors"></a>
-  <a href="https://github.com/harehimself/hare_pitchboost/network/members">
-    <img src="https://img.shields.io/github/forks/harehimself/hare_pitchboost" alt="Forks"></a>
-  <a href="https://github.com/harehimself/hare_pitchboost/stargazers">
-    <img src="https://img.shields.io/github/stars/harehimself/hare_pitchboost" alt="Stars"></a>
-  <a href="https://github.com/harehimself/hare_pitchboost/issues">
-    <img src="https://img.shields.io/github/issues/harehimself/hare_pitchboost" alt="Issues"></a>
-  <a href="https://github.com/harehimself/hare_pitchboost/blob/main/LICENSE">
-    <img src="https://img.shields.io/github/license/harehimself/hare_pitchboost" alt="MIT License"></a>
+  <a href="https://github.com/harehimself/paths/graphs/contributors">
+    <img src="https://img.shields.io/github/contributors/harehimself/paths" alt="Contributors"></a>
+  <a href="https://github.com/harehimself/paths/network/members">
+    <img src="https://img.shields.io/github/forks/harehimself/paths" alt="Forks"></a>
+  <a href="https://github.com/harehimself/paths/stargazers">
+    <img src="https://img.shields.io/github/stars/harehimself/paths" alt="Stars"></a>
+  <a href="https://github.com/harehimself/paths/issues">
+    <img src="https://img.shields.io/github/issues/harehimself/paths" alt="Issues"></a>
+  <a href="https://github.com/harehimself/paths/blob/main/LICENSE">
+    <img src="https://img.shields.io/github/license/harehimself/paths" alt="MIT License"></a>
 </p>
 
 <br><br>
