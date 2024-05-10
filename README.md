@@ -40,18 +40,15 @@
 - Integration with existing CRM systems.<br>
 
 <br>
-<br>
 
 ## Why Pipeline Paths?
    Pipeline Paths addresses the critical need for enterprise salespeople to efficiently identify and pursue new sales opportunities. By leveraging AI and providing an intuitive interface, it empowers users to make data-driven decisions and accelerate their sales pipeline.
 
 <br>
-<br>
 
 ## How It Compares
    Pipeline Paths stands out from traditional sales tools by incorporating advanced AI capabilities and focusing on the specific needs of enterprise salespeople. It offers a more comprehensive and intelligent approach to identifying sales opportunities compared to basic search and analytics tools.
 
-<br>
 <br>
 
 ## License
