@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-   Paths is an enterprise sales search app that empowers salespeople to identify entry points and revenue opportunities. Whether searching for contacts or companies, Paths presents various strategies to build new relationships and new sources of pipeline.
+   Pipeline Paths is an advanced search application for enterprise salespeople, helping to identify the many paths to new sales pipeline. It leverages powerful AI algorithms to analyze vast amounts of data and provide actionable insights. The intuitive interface allows users to quickly navigate and explore potential sales opportunities.
 </p>
 <br>
 
@@ -25,21 +25,34 @@
 ## Table of Contents
 - [Table of Contents](#table-of-contents)
 - [Features](#features)
+- [Why Pipeline Paths?](#features)
+- [How It Compares](#features)
 - [License](#license)
 
 
 <br>
 
 ## Features
-- Clean, well-structured, and commented presentation.<br>
-- Modular architecture for easy customization and extension.<br>
-- Sample templates and themes to kickstart presentation design.<br>
-- Placeholders for client personalization throughout.<br>
-- Interactive elements to engage audiences (both in-person and remotely).<br>
-- Cross-platform design (PowerPoint, Google Slides).<br>
+- Advanced AI-powered search capabilities.<br>
+- Comprehensive data analysis and visualization.<br>
+- Intuitive and user-friendly interface.<br>
+- Customizable search parameters and filters.<br>
+- Integration with existing CRM systems.<br>
+
+<br>
+<br>
+
+## Why Pipeline Paths?
+   Pipeline Paths addresses the critical need for enterprise salespeople to efficiently identify and pursue new sales opportunities. By leveraging AI and providing an intuitive interface, it empowers users to make data-driven decisions and accelerate their sales pipeline.
+
+<br>
+<br>
+
+## How It Compares
+   Pipeline Paths stands out from traditional sales tools by incorporating advanced AI capabilities and focusing on the specific needs of enterprise salespeople. It offers a more comprehensive and intelligent approach to identifying sales opportunities compared to basic search and analytics tools.
 
 <br>
 <br>
 
 ## License
-   PitchBoost is released under the MIT License.
+   Pipeline Paths is released under the MIT License.
