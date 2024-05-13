@@ -1,15 +1,4 @@
 <p align="center">
-  <a href="https://www.linkedin.com/in/mike-hare">
-    <img src="https://assets.vercel.com/image/upload/v1588805858/repositories/vercel/logo.png" height="96">
-    <h3 align="center">Mike Hare</h3>
-  </a>
-</p>
-
-<p align="center">
-  Mike Hare
-</p>
-
-<p align="center">
    <img src="https://raw.githubusercontent.com/harehimself/paths/master/Hare_Paths.png" alt="Paths App">
 </p>
 
